@@ -7,12 +7,13 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://chemestrymonu79.ed-era.com/2/povtorennya.html">Повторення найважливіших питань курсу хімії 7 класу</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/2/periodychniy_zakon_budova_atoma.html">Періодичний закон і періодична система хімічних елементів. Будова атома</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/2/khimichniy_zvyazok.html">Хімічний зв’язок і будова речовини</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/2/kilkist_rechoviny.html">Кількість речовини. Розрахунки за хімічними формулами</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/2/neorganichni_spoluki.html">Основні класи неорганічних сполук</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/2/ekskursiyi.html">Орієнтовні об’єкти екскурсій</a></li>
+    <li><a href="./8_klas.md">8 клас</a></li>
+    <li><a href="./povtorennya.md">Повторення найважливіших питань курсу хімії 7 класу</a></li>
+    <li><a href="./periodychniy_zakon_budova_atoma.md">Періодичний закон і періодична система хімічних елементів. Будова атома</a></li>
+    <li><a href="./khimichniy_zvyazok.md">Хімічний зв’язок і будова речовини</a></li>
+    <li><a href="./kilkist_rechoviny.md">Кількість речовини. Розрахунки за хімічними формулами</a></li>
+    <li><a href="./neorganichni_spoluki.md">Основні класи неорганічних сполук</a></li>
+    <li><a href="./ekskursiyi.md">Орієнтовні об’єкти екскурсій</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

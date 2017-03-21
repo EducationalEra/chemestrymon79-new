@@ -7,12 +7,13 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://chemestrymonu79.ed-era.com/3/povtorennya.html">Повторення найважливіших питань курсу хімії 8 класу</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/3/rozhyny.html">Розчини</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/3/khimichni_reakciyi.html">Хімічні реакції</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/3/organichni_spoluki.html">Початкові поняття про органічні сполуки</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/3/uzagalnennya.html">Узагальнення знань з хімії</a></li>
-<li><a href="https://chemestrymonu79.ed-era.com/3/ekskursiyi.html">Орієнтовні об’єкти екскурсій</a></li>
+    <li><a href="./9_klas.md">9 клас</a></li>
+    <li><a href="./povtorennya.md">Повторення найважливіших питань курсу хімії 8 класу</a></li>
+    <li><a href="./rozhyny.md">Розчини</a></li>
+    <li><a href="./khimichni_reakciyi.md">Хімічні реакції</a></li>
+    <li><a href="./organichni_spoluki.md">Початкові поняття про органічні сполуки</a></li>
+    <li><a href="./uzagalnennya.md">Узагальнення знань з хімії</a></li>
+    <li><a href="./ekskursiyi.md">Орієнтовні об’єкти екскурсій</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
