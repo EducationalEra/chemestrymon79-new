@@ -2,7 +2,7 @@
 
 # Орієнтовні об’єкти екскурсій
 
-Водоочисна станція. Підприємства з виробництва пластмас, цукровий завод.
+Водоочисна станція. Підприємства з виробництва пластмас, цукровий завод, кондитерська, хлібопекарня. 
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

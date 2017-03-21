@@ -4,6 +4,8 @@
 * [Правила внесення пропозицій та алгоритм обговорення](pravyla.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
+   * [Ключові компетентності](kluchovi_kompetentnosti.md)
+   * [Наскрізні змістові лінії](naskrizni_linii.md)
    * [Навчальний план](navchalniy_plan.md)
    * [Засоби і методи навчання](zasoby_ta_metody_navchannya.md)
 
