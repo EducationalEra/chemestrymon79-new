@@ -22,7 +22,7 @@
 Для того, щоб детально ознайомитися з врахованими/неврахованими коментарями дописувачів на EdEra під час першого етапу обговорення, перейдіть за посиланням. 
 <br>
 
-<center><a href="https://docs.google.com/document/d/1iZi1h8wQVqfXguZpbhn9RNr73UrA09LEdldf_5tIDTE/edit?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
+<center><a href="https://drive.google.com/file/d/0B3rkJRFCKILfbG1XemgyY2IzcjA/view" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
